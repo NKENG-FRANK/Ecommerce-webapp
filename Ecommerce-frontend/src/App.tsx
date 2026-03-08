@@ -25,7 +25,7 @@ function App() {
         <div className="nav-container">
           <div className="brand">
             <div className="brand-orb"></div>
-            <span>Nexus Commerce</span>
+            <span>E-Commerce</span>
           </div>
           <div className="nav-links">
             <a href="#create" className="nav-link">Create Shop</a>
@@ -225,7 +225,7 @@ function App() {
         <div className="footer-top">
           <div className="brand">
             <div className="brand-orb" style={{ width: '20px', height: '20px', animation: 'none' }}></div>
-            <span style={{ fontSize: '1.1rem' }}>Nexus Commerce</span>
+            <span style={{ fontSize: '1.1rem' }}>E-Commerce</span>
           </div>
           <div className="footer-links">
             <a href="#create">Features</a>
